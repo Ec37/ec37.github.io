@@ -3,4 +3,5 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Heroine X Site
-description: fate
+description: “	你们往往会把时间视作用来测量的存在。时间其实是用来累积的存在。是仅此就具备意义的存在。无论是你毁灭，还是你的国家毁灭，时间都不会被抹除。人类往往以为自己才是『乘客』。其实时间才是乘客，人类则类似于运送它的河流。给我记住了，藤丸立香。会刻下时间流逝的不只有人类。人类观测的时间、机械记录的时间、物质磨耗的时间、行星冷却的时间。只要这一切没有全都消失，我们的世界就是不灭的。永无尽头。就算会丧失什么，就算这颗行星（星球）上的每个人都完成了使命——时间（未来）也会永恒不断地持续下去。	”
+——特斯卡特利波卡
